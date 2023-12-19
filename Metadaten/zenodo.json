@@ -1,0 +1,107 @@
+{
+  "title": "Laborbestätigte Influenzafälle in Deutschland",
+  "description": "<p>Im Datensatz &quot;Laborbestätigte Influenzafälle in Deutschland&quot; werden die wöchentlichen Fallzahlen und Inzidenzen (Fälle pro 100.000 Personen) der nach den Vorgaben des <a href=\"https://www.gesetze-im-internet.de/ifsg/index.html\">Infektionsschutzgesetzes (IfSG)</a> von den Gesundheitsämtern in Deutschland an die zuständigen Landesbehördne und das Robert Koch-Institut (RKI) übermittelten laborbestätigten Influenzafälle bereitgestellt.</p>\n",
+  "creators": [
+    {
+      "name": "Robert Koch-Institut",
+      "affiliation": "Robert Koch-Institut"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Diercke, Michaela",
+      "affiliation": "Robert Koch-Institut",
+      "type": "ProjectLeader",
+      "orcid": "0000-0002-4678-1813"
+    },
+    {
+      "name": "Ullrich, Alexander",
+      "affiliation": "Robert Koch-Institut",
+      "type": "Researcher",
+      "orcid": "0000-0002-4894-6124"
+    },
+    {
+      "name": "Benzler, Justus",
+      "affiliation": "Robert Koch-Institut",
+      "type": "ProjectManager",
+      "orcid": "0000-0002-7470-0849"
+    },
+    {
+      "name": "Pape, Eberhard",
+      "affiliation": "Robert Koch-Institut",
+      "type": "DataManager"
+    }
+  ],
+  "keywords": [
+    "Influenza",
+    "Grippe",
+    "Infektion",
+    "Infektionsschutzgesetz",
+    "IfSG",
+    "Deutschland",
+    "RKI",
+    "Offene Daten",
+    "Infection",
+    "Germany",
+    "Open Data"
+  ],
+  "publication_date": "2023-12-19",
+  "version": "2023-12-13",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "deu",
+  "communities": [
+    {
+      "identifier": "robertkochinstitut"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Gesundheitsberichterstattung",
+      "identifier": "info:ddc/22/de//614.42"
+    },
+    {
+      "term": "Epidemiologie",
+      "identifier": "info:ddc/22/de//614.4"
+    },
+    {
+      "term": "Public health surveillance",
+      "identifier": "info:ddc/22/eng//614.42"
+    },
+    {
+      "term": "Epidemiology",
+      "identifier": "info:ddc/22/eng//614.4"
+    }
+  ],
+  "dates": [
+    {
+      "start": "2023-12-13T03:00:45+01:00",
+      "end": "2023-12-13T03:00:45+01:00",
+      "type": "Collected",
+      "description": "Date when the Dataset was created"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland",
+      "resource_type": "dataset"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/Readme.md",
+      "resource_type": "publication-report"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/[Dokumentation]_Influenzafaelle_in_Deutschland.pdf",
+      "resource_type": "publication-report"
+    },
+    {
+      "relation": "isDescribedBy",
+      "identifier": "https://www.github.io/robert-koch-institut/Laborbestätigte_Influenzafälle_in_Deutschland",
+      "resource_type": "other"
+    }
+  ]
+}
