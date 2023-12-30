@@ -13,7 +13,7 @@ Eberhard Pape
 
 ---
 **Zitieren** 
-Robert Koch-Institut (2023): Laborbestätigte Influenzafälle in Deutschland. [Dataset] Zenodo. DOI:[10.5281/zenodo.10417576](https://doi.org/10.5281/zenodo.10417576).
+Robert Koch-Institut (2023): Laborbestätigte Influenzafälle in Deutschland. [Dataset] Zenodo. DOI:[10.5281/zenodo.10445540](https://doi.org/10.5281/zenodo.10445540).
 
 ## Informationen zum Datensatz und Entstehungskontext
 
