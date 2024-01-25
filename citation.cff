@@ -8,7 +8,7 @@ abstract: >-
   (https://www.gesetze-im-internet.de/ifsg/index.html) von den Gesundheitsämtern
   in Deutschland an die zuständigen Landesbehördne und das Robert Koch-Institut
   (RKI) übermittelten laborbestätigten Influenzafälle bereitgestellt. 
-date-released: '2024-01-19'
+date-released: '2024-01-25'
 keywords:
   - Influenza
   - Grippe
@@ -29,7 +29,7 @@ message: Cite me!
 url: >-
   https://www.github.io/robert-koch-institut/Laborbestätigte_Influenzafälle_in_Deutschland
 license: CC-BY-4.0
-doi: 10.5281/zenodo.10532662
-version: '2024-01-19T03:00:41+01:00'
+doi: 10.5281/zenodo.10568867
+version: '2024-01-25T03:00:42+01:00'
 authors:
   - name: Robert Koch-Institut
