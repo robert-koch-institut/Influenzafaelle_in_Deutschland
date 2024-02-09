@@ -45,8 +45,8 @@
     "Germany",
     "Open Data"
   ],
-  "publication_date": "2024-01-25",
-  "version": "2024-01-25",
+  "publication_date": "2024-02-09",
+  "version": "2024-02-09",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -76,8 +76,8 @@
   ],
   "dates": [
     {
-      "start": "2024-01-25T03:00:42+01:00",
-      "end": "2024-01-25T03:00:42+01:00",
+      "start": "2024-02-09T03:00:41+01:00",
+      "end": "2024-02-09T03:00:41+01:00",
       "type": "Collected",
       "description": "Date when the Dataset was created"
     }
@@ -100,7 +100,7 @@
     },
     {
       "relation": "isDescribedBy",
-      "identifier": "https://www.github.io/robert-koch-institut/Laborbestätigte_Influenzafälle_in_Deutschland",
+      "identifier": "https://robert-koch-institut.github.io/Influenzafaelle_in_Deutschland/",
       "resource_type": "other"
     }
   ]
