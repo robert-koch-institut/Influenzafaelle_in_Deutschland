@@ -17,7 +17,7 @@ Robert Koch-Institut (2024): Laborbestätigte Influenzafälle in Deutschland. [D
 
 ## Informationen zum Datensatz und Entstehungskontext
 
-Im Datensatz "Laborbestätigte Influenzafälle in Deutschland" werden die wöchentlichen Fallzahlen und Inzidenzen (Fälle pro 100.000 Personen) der nach den Vorgaben des [Infektionsschutzgesetzes (IfSG)](https://www.gesetze-im-internet.de/ifsg/index.html) von den Gesundheitsämtern in Deutschland an die zuständigen Landesbehördne und das Robert Koch-Institut (RKI) übermittelten laborbestätigten Influenzafälle bereitgestellt. 
+Im Datensatz "Laborbestätigte Influenzafälle in Deutschland" werden die wöchentlichen Fallzahlen und Inzidenzen (Fälle pro 100.000 Personen) der nach den Vorgaben des [Infektionsschutzgesetzes (IfSG)](https://www.gesetze-im-internet.de/ifsg/index.html) von den Gesundheitsämtern in Deutschland an die zuständigen Landesbehörde und das Robert Koch-Institut (RKI) übermittelten laborbestätigten Influenzafälle bereitgestellt. 
 
 ### Administrative und organisatorische Angaben
 
@@ -53,11 +53,11 @@ Diese Evidenztypen werden zu einer von fünf Falldefinitionskategorien zusammeng
 
 > [Kontextmaterialien/2023-09-01_RKI-Falldefinition.pdf](https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/Kontextmaterialien/2023-09-01_RKI-Falldefinition.pdf)  
 
-Der Datensatz enhlät dabei nur Daten zu laborbestätigten Influenzafällen (Kategorieen **C**, **D** und **E**) nach der Falldefinition (Influenzavirus, human oder pandemisch).
+Der Datensatz enthält dabei nur Daten zu laborbestätigten Influenzafällen (Kategorien **C**, **D** und **E**) nach der Falldefinition (Influenzavirus, human oder pandemisch).
 
 #### Melde- und Übermittlungsweg
 
-Die Meldung an das Gesundheitsamt hat gemäß § 14 IfSG elektronische zu erfolgen. Die Spezifikationen für die elektronische Meldung sind im Implementierungsleitfaden beschrieben: https://simplifier.net/guide/implementierungsleitfadenfrdemis?version=current 
+Die Meldung an das Gesundheitsamt hat gemäß §14 IfSG elektronisch zu erfolgen. Die Spezifikationen für die elektronische Meldung sind im Implementierungsleitfaden beschrieben: https://simplifier.net/guide/implementierungsleitfadenfrdemis?version=current 
 
 Die im Gesundheitsamt eingehenden Meldungen werden weitestgehend automatisiert in der Gesundheitsamtssoftware weiterverarbeitet, durch weitere Ermittlungen ggf. vervollständigt, gegebenenfalls werden mehrere Meldungen zum selben Fall zusammengeführt und dort gemäß Falldefinition bewertet. Erfüllt ein Fall die Falldefinition des RKI, müssen die Daten vom zuständigen Gesundheitsamt spätestens am nächsten Arbeitstag elektronisch an die zuständige Landesbehörde und von dort spätestens am nächsten Arbeitstag an das RKI übermittelt werden. Der Umfang der an das RKI übermittelten Daten ist in § 11 IfSG festgelegt. Dies beinhaltet demografische und epidemiologische Angaben. Im Verlauf einer meldepflichtigen Infektion kann zwischen verschiedenen Kennzeitpunkten unterschieden werden:  
 
@@ -153,7 +153,7 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
 
 ### Lizenz  
 
-Der Datensatz "Influenza-Infektionen in Deutschlands" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY ](https://creativecommons.org/licenses/by/4.0/deed.de).  
+Der Datensatz "Influenza-Infektionen in Deutschland" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY ](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
-Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/LIZENZ) Datei des Datensatzes.
+Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht, die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/LIZENZ) Datei des Datensatzes.
 
