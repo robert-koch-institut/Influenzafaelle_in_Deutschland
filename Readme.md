@@ -1,7 +1,7 @@
 Datensatzdokumentation  
 # Laborbestätigte Influenzafälle in Deutschland
 
-[**Robert Koch-Institut | RKI **](https://rki.de) 
+[**Robert Koch-Institut | RKI**](https://rki.de)   
 Nordufer 20  
 13353 Berlin  
 
