@@ -1,19 +1,23 @@
 Datensatzdokumentation  
 # Laborbestätigte Influenzafälle in Deutschland
 
-[Robert Koch-Institut](https://rki.de) | RKI  
+[**Robert Koch-Institut | RKI **](https://rki.de) 
 Nordufer 20  
 13353 Berlin  
 
-FG 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle  
-[Michaela Diercke](https://orcid.org/0000-0002-4678-1813), [Justus Benzler](https://orcid.org/0000-0002-7470-0849), [Alexander Ullrich](https://orcid.org/0000-0002-4894-6124)
+<br>
 
-IT 4 | Softwarearchitektur und -entwicklung  
-Eberhard Pape
+**Beitragende**  
+[Michaela Diercke](https://orcid.org/0000-0002-4678-1813)&sup1;, [Justus Benzler](https://orcid.org/0000-0002-7470-0849)&sup1;, [Alexander Ullrich](https://orcid.org/0000-0002-4894-6124)&sup1; und Eberhard Pape&sup2;
+
+&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet 32 ](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG32/FG32_node.html)  
+&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet IT 4](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/IT4/it4_node.html)  
 
 ---
+
 **Zitieren** 
-Robert Koch-Institut (2024): Laborbestätigte Influenzafälle in Deutschland. [Dataset] Zenodo. DOI:[10.5281/zenodo.12719617](https://doi.org/10.5281/zenodo.12719617).
+Robert Koch-Institut (**2024**): Laborbestätigte Influenzafälle in Deutschland. [Dataset] Zenodo. DOI:[10.5281/zenodo.12770437](https://doi.org/10.5281/zenodo.12770437).
+
 
 ## Informationen zum Datensatz und Entstehungskontext
 
