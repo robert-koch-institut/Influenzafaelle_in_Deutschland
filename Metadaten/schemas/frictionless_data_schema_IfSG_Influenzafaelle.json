@@ -1,0 +1,80 @@
+{
+  "fields": [
+    {
+      "name": "Meldewoche",
+      "type": "string",
+      "description": "Kalenderwoche, in der der Fall dem Gesundheitsamt bekannt geworden ist. `JJJJ` entspricht der Jahresangabe,`Www` entspricht der Wochenangabe nach [ISO 8601](https://de.wikipedia.org/wiki/ISO_8601) (beispielsweise `2021-W34` für die 34. Kalenderwoche des Jahres 2021)",
+      "constraints": {
+        "pattern": "[0-9]{4}-W([0-4]{1}[0-9]{1}|5[0-3]{1})"
+      }
+    },
+    {
+      "name": "Region",
+      "type": "string",
+      "description": "Name der Bezugsregion, Bundesländer bzw. gesamt Deutschland",
+      "constraints": {
+        "enum": [
+          "Baden-Württemberg",
+          "Bayern",
+          "Berlin",
+          "Brandenburg",
+          "Bremen",
+          "Hamburg",
+          "Hessen",
+          "Mecklenburg-Vorpommern",
+          "Niedersachsen",
+          "Nordrhein-Westfalen",
+          "Rheinland-Pfalz",
+          "Saarland",
+          "Sachsen",
+          "Sachsen-Anhalt",
+          "Schleswig-Holstein",
+          "Thüringen",
+          "Deutschland",
+          "Unbekannt"
+        ]
+      }
+    },
+    {
+      "name": "Region_Id",
+      "type": "string",
+      "description": "ID nach dem Amtlichen Gemeindeschlüssl. Zusätzlich `00` für gesamt Deutschland und `NA` für unbekannt",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "pattern": "0[0-9]{1}|1[0-6]{1}|NA"
+      }
+    },
+    {
+      "name": "Altersgruppe",
+      "type": "string",
+      "description": "Altersspanne der in der Gruppe enthaltenen Fälle",
+      "constraints": {
+        "enum": [
+          "00-14",
+          "15-59",
+          "60+",
+          "00+",
+          "Unbekannt"
+        ]
+      }
+    },
+    {
+      "name": "Fallzahl",
+      "type": "integer",
+      "description": "Anzahl der Fälle in der Fallgruppe",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "Inzidenz",
+      "type": "number",
+      "description": "Anzahl der Fälle pro 100.000 Personen bezogen auf die Gesammtbevölkerung der Fallgruppe (`NA`, falls Altersgruppe oder Region unbekannt sind)",
+      "missingValues": [
+        "NA"
+      ]
+    }
+  ]
+}

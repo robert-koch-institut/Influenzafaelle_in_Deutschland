@@ -1,0 +1,16 @@
+{
+  "name": "influenzafaelle_in_deutschland",
+  "title": "Influenzafaelle_in_Deutschland",
+  "description": "Frictionless data package. This package lists and describes all data files in this open data repository. For more information on frictionless data, see https://specs.frictionlessdata.io/ and https://framework.frictionlessdata.io/.",
+  "resources": [
+    {
+      "name": "ifsg_influenzafaelle",
+      "type": "table",
+      "path": "../../IfSG_Influenzafaelle.tsv",
+      "scheme": "file",
+      "format": "tsv",
+      "mediatype": "text/csv",
+      "schema": "frictionless_data_schema_IfSG_Influenzafaelle.json"
+    }
+  ]
+}
