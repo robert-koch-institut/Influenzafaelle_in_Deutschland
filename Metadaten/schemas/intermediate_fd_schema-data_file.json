@@ -1,0 +1,28 @@
+{
+  "fields": [
+    {
+      "name": "Meldewoche",
+      "type": "string"
+    },
+    {
+      "name": "Region",
+      "type": "string"
+    },
+    {
+      "name": "Region_Id",
+      "type": "integer"
+    },
+    {
+      "name": "Altersgruppe",
+      "type": "string"
+    },
+    {
+      "name": "Fallzahl",
+      "type": "integer"
+    },
+    {
+      "name": "Inzidenz",
+      "type": "string"
+    }
+  ]
+}

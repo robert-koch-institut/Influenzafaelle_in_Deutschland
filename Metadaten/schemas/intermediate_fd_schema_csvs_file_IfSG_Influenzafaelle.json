@@ -1,0 +1,71 @@
+{
+  "fields": [
+    {
+      "name": "Meldewoche",
+      "type": "string",
+      "constraints": {
+        "pattern": "[0-9]{4}-W([0-4]{1}[0-9]{1}|5[0-3]{1})"
+      }
+    },
+    {
+      "name": "Region",
+      "type": "string",
+      "constraints": {
+        "enum": [
+          "Baden-Württemberg",
+          "Bayern",
+          "Berlin",
+          "Brandenburg",
+          "Bremen",
+          "Hamburg",
+          "Hessen",
+          "Mecklenburg-Vorpommern",
+          "Niedersachsen",
+          "Nordrhein-Westfalen",
+          "Rheinland-Pfalz",
+          "Saarland",
+          "Sachsen",
+          "Sachsen-Anhalt",
+          "Schleswig-Holstein",
+          "Thüringen",
+          "Deutschland",
+          "Unbekannt"
+        ]
+      }
+    },
+    {
+      "name": "Region_Id",
+      "type": "string",
+      "constraints": {
+        "pattern": "0[0-9]{1}|1[0-6]{1}|NA"
+      }
+    },
+    {
+      "name": "Altersgruppe",
+      "type": "string",
+      "constraints": {
+        "enum": [
+          "00-14",
+          "15-59",
+          "60+",
+          "00+",
+          "Unbekannt"
+        ]
+      }
+    },
+    {
+      "name": "Fallzahl",
+      "type": "integer",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "Inzidenz",
+      "type": "number",
+      "missingValues": [
+        "NA"
+      ]
+    }
+  ]
+}

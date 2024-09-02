@@ -2,11 +2,9 @@
   "fields": [
     {
       "name": "Meldewoche",
-      "type": "string",
+      "type": "date",
       "description": "Kalenderwoche, in der der Fall dem Gesundheitsamt bekannt geworden ist. `JJJJ` entspricht der Jahresangabe,`Www` entspricht der Wochenangabe nach [ISO 8601](https://de.wikipedia.org/wiki/ISO_8601) (beispielsweise `2021-W34` für die 34. Kalenderwoche des Jahres 2021)",
-      "constraints": {
-        "pattern": "[0-9]{4}-W([0-4]{1}[0-9]{1}|5[0-3]{1})"
-      }
+      "format": "%Y-W%W"
     },
     {
       "name": "Region",
@@ -44,7 +42,6 @@
       ],
       "constraints": {
         "enum": [
-          "00",
           "01",
           "02",
           "03",
@@ -60,7 +57,8 @@
           "13",
           "14",
           "15",
-          "16"
+          "16",
+          "00"
         ]
       }
     },
