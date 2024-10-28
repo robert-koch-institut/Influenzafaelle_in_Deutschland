@@ -106,14 +106,17 @@ In den Fallzahlen differenzieren die Spalten nach verschiedenen Merkmalen einer 
 
 #### Variablenausprägungen
 
-| Variable | Typ | Ausprägungen | Beschreibung |
-| -------- | --- | ------------ | ------------ |
-| Meldewoche| Datum | `JJJJ-Www` |  Kalenderwoche, in der der Fall dem Gesundheitsamt bekannt geworden ist. `JJJJ` entspricht der Jahresangabe,`Www` entspricht der Wochenangabe nach [ISO 8601](https://de.wikipedia.org/wiki/ISO_8601) (beispielsweise `2021-W34` für die 34. Kalenderwoche des Jahres 2021) |  
-| Region   | Text | `Schleswig-Holstein`, ... `Thüringen`; <br/> `Deutschland`, `Unbekannt`  | Name der Bezugsregion, Bundesländer bzw. gesamt Deutschland|
-| Region_Id  | Text | `00`,`01`, ... `16`, `NA`  | ID nach dem Amtlichen Gemeindeschlüssl. Zusätzlich `00` für gesamt Deutschland und `NA` für unbekannt| 
-| Altersgruppe | Text |  `00-14`, `15-59`, `60+`, `00+`, `Unbekannt`  | Altersspanne der in der Gruppe enthaltenen Fälle   |  
-| Fallzahl       | ganze Zahl |  `≥0` | Anzahl der Fälle in der Fallgruppe |  
-| Inzidenz  | Rationale Zahl |  `n.nn`, `NA` | Anzahl der Fälle pro 100.000 Personen bezogen auf die Gesammtbevölkerung der Fallgruppe (`NA`, falls Altersgruppe oder Region unbekannt sind) |
+| Variable     | Typ     | Ausprägungen                                                                                    | Beschreibung                                                                                                                                                                                                                                                               |
+|:-------------|:--------|:------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Meldewoche   | date    | Format: `YYYY-Www`                                                                              | Kalenderwoche, in der der Fall dem Gesundheitsamt bekannt geworden ist. `JJJJ` entspricht der Jahresangabe,`Www` entspricht der Wochenangabe nach [ISO 8601](https://de.wikipedia.org/wiki/ISO_8601) (beispielsweise `2021-W34` für die 34. Kalenderwoche des Jahres 2021) |
+| Region       | string  | Werte: `Baden-Württemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Name der Bezugsregion, Bundesländer bzw. gesamt Deutschland                                                                                                                                                                                                                |
+| Region_Id    | string  | Fehlende Werte: `NA`<br>Werte: `01`, `02`, `03`, `04`, `05`, `06`, `07`, …                      | ID nach dem Amtlichen Gemeindeschlüssl. Zusätzlich `00` für gesamt Deutschland und `NA` für unbekannt                                                                                                                                                                      |
+| Altersgruppe | string  | Werte: `00-14`, `15-59`, `60+`, `00+`, `Unbekannt`                                              | Altersspanne der in der Gruppe enthaltenen Fälle                                                                                                                                                                                                                           |
+| Fallzahl     | integer | Minimum: 0                                                                                      | Anzahl der Fälle in der Fallgruppe                                                                                                                                                                                                                                         |
+| Inzidenz     | number  | Fehlende Werte: `NA`                                                                            | Anzahl der Fälle pro 100.000 Personen bezogen auf die Gesammtbevölkerung der Fallgruppe (`NA`, falls Altersgruppe oder Region unbekannt sind)                                                                                                                              |
+
+Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_IfSG_Influenzafaelle.json`](https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_IfSG_Influenzafaelle.json).
+
 
 #### Formatierung der Daten 
 
