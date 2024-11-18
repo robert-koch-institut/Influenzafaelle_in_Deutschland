@@ -1,0 +1,17 @@
+{
+  "name": "10.5281/zenodo.10401796",
+  "title": "Laborbestätigte Influenzafälle in Deutschland",
+  "description": "Diese Datei gibt eine Übersicht über alle Datensätze in diesem Open Data Repository. Informationen zum Frictionless Data Standard finden Sie unter https://specs.frictionlessdata.io/ und https://framework.frictionlessdata.io/. Mehr Information über diesen Datensatz finden sie auf Zenodo (https://doi.org/10.5281/zenodo.10401796) oder Github (https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland)",
+  "homepage": "https://doi.org/10.5281/zenodo.10401796",
+  "resources": [
+    {
+      "name": "ifsg_influenzafaelle",
+      "type": "table",
+      "path": "../IfSG_Influenzafaelle.tsv",
+      "scheme": "file",
+      "format": "tsv",
+      "mediatype": "text/csv",
+      "schema": "schemas/frictionless_data_schema_IfSG_Influenzafaelle.json"
+    }
+  ]
+}
