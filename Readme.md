@@ -126,11 +126,6 @@ Die Datei [IfSG_Influenzafaelle.tsv](https://github.com/robert-koch-institut/Inf
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
-
-
-
-
-
 #### Formatierung der Daten 
 
 Die Daten sind im Datensatz als tabulatorseparierte .tsv-Datei enthalten. Der verwendete Zeichensatz der .tsv-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tabulator [tab]. Datumsangaben sind im ISO-8601-Standard formatiert.
