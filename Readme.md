@@ -16,7 +16,7 @@ Nordufer 20
 ---
 
 **Zitieren** 
-Robert Koch-Institut (**2024**): Laborbestätigte Influenzafälle in Deutschland. [Dataset] Zenodo. DOI:[10.5281/zenodo.14586405](https://doi.org/10.5281/zenodo.14586405).
+Robert Koch-Institut (**2024**): Laborbestätigte Influenzafälle in Deutschland. [Dataset] Zenodo. DOI:[10.5281/zenodo.14619502](https://doi.org/10.5281/zenodo.14619502).
 
 
 ## Informationen zum Datensatz und Entstehungskontext
