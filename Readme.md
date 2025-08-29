@@ -1,24 +1,47 @@
-Datensatzdokumentation  
+<!-- HEADER_START: {"lang": "de"} -->
+
+
+Dokumentation  
 # Laborbestätigte Influenzafälle in Deutschland
 
-[**Robert Koch-Institut | RKI**](https://rki.de)   
-Nordufer 20  
-13353 Berlin  
+<br> 
+<br> 
+<br> 
+
+[**Robert Koch-Institut**](https://www.rki.de/)
+
+<br> 
+
+**Beitragende**   
+[Michaela Diercke](https://orcid.org/0000-0002-4678-1813)&sup1;, [Justus Benzler](https://orcid.org/0000-0002-7470-0849)&sup1;, [Alexander Ullrich](https://orcid.org/0000-0002-4894-6124)&sup1;, & Eberhard Pape&sup2;
+
+&emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet 32](https://www.rki.de/fg32)  
+&emsp;&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet IT 4](https://www.rki.de/it4)
+
+<br> 
+
+**Zitieren**  
+Robert Koch-Institut. (2025). Laborbestätigte Influenzafälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15186999](https://doi.org/10.5281/zenodo.15186999)
 
 <br>
 
-**Beitragende**  
-[Michaela Diercke](https://orcid.org/0000-0002-4678-1813)&sup1;, [Justus Benzler](https://orcid.org/0000-0002-7470-0849)&sup1;, [Alexander Ullrich](https://orcid.org/0000-0002-4894-6124)&sup1; und Eberhard Pape&sup2;
 
-&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet 32 ](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG32/fg32-surveillance-und-elektronisches-melde-und-informationssystem-demis-oegd-kontaktstelle-node.html)  
-&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet IT 4](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/IT4/it4-softwarearchitektur-und-entwicklung-node.html)  
+**Zusammenfassung**    
+Im Datensatz "Laborbestätigte Influenzafälle in Deutschland" des Robert Koch-Instituts werden die Daten basierend auf Meldungen zu Infektionen mit dem Influenzavirus nach dem Infektionsschutzgesetz (IfSG) bereitgestellt. Darin enthalten sind Informationen auf Bundeslandebene zu Infektionen nach Falldefinition des Robert Koch-Instituts, differenziert nach Altersgruppen. Diese Daten dienen als Grundlage für epidemiologische Bewertungen und gesundheitspolitische Maßnahmen.
 
----
+<br>
 
-**Zitieren** 
-<!-- CITATION_START: {"citation_style": "apa"} -->
-Robert Koch-Institut. (2025). Laborbestätigte Influenzafälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15186999](https://doi.org/10.5281/zenodo.15186999)
-<!-- CITATION_END -->
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
+  - [Daten und Datenaufbereitung](#daten-und-datenaufbereitung)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+<!-- TOC_END -->
+
+<br>
+
+<!-- HEADER_END -->
+
 
 
 ## Informationen zum Datensatz und Entstehungskontext
@@ -27,9 +50,9 @@ Im Datensatz "Laborbestätigte Influenzafälle in Deutschland" werden die wöche
 
 ### Administrative und organisatorische Angaben
 
-Die zugrundeliegenden Daten werden im Rahmen des Meldesystems gemäß [IfSG](https://www.gesetze-im-internet.de/ifsg/index.html) erhoben und verarbeitet. Zuständig für die fachliche Umsetzung des Meldesystems ist das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD-Kontaktstelle](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG32/fg32-surveillance-und-elektronisches-melde-und-informationssystem-demis-oegd-kontaktstelle-node.html) des RKI.  
-Die Verarbeitung und Aufbereitung der im Meldesystem vorliegenden Rohdaten erfolgt durch das Fachgebiet [IT4 | Softwarearchitektur und -entwicklung](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/IT4/it4-softwarearchitektur-und-entwicklung-node.html).  
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open-Data-Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
+Die zugrundeliegenden Daten werden im Rahmen des Meldesystems gemäß [IfSG](https://www.gesetze-im-internet.de/ifsg/index.html) erhoben und verarbeitet. Zuständig für die fachliche Umsetzung des Meldesystems ist das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD-Kontaktstelle](https://www.rki.de/fg32) des RKI.  
+Die Verarbeitung und Aufbereitung der im Meldesystem vorliegenden Rohdaten erfolgt durch das Fachgebiet [IT4 | Softwarearchitektur und -entwicklung](https://www.rki.de/it4).  
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open-Data-Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
 
 ### Entstehungskontext
 
@@ -89,7 +112,7 @@ Im Datensatz enthalten sind:
 - Metadaten zur Datenpublikation  
 - Lizenz Datei mit der Nutzungslizenz des Datensatzes  
 
-Zentrales Datum des Datensatzes sind die aktuellen Fallzahlen der laborbestätigten Influenzafälle. Diese sind im Hauptverzeichnis unter "IfSG_Influenzafaelle.tsv" abrufbar und werden wöchentlich überschrieben.
+Der Datensatz enthält die aktuellen Fallzahlen der laborbestätigten Influenzafälle. Diese sind im Hauptverzeichnis unter "IfSG_Influenzafaelle.tsv" abrufbar und werden wöchentlich überschrieben.
 
 > [IfSG_Influenzafaelle.tsv](https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/IfSG_Influenzafaelle.tsv)  
 
