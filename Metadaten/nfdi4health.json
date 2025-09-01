@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.15186999",
+        "identifier": "10.5281/zenodo.16977291",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -38,15 +38,15 @@
     "keywords": [
       {
         "label": "Influenza",
-        "code": "D007251"
+        "code": "http://id.nlm.nih.gov/mesh/D007251"
       },
       {
         "label": "Grippe",
-        "code": "D007251"
+        "code": "http://id.nlm.nih.gov/mesh/D007251"
       },
       {
         "label": "Infektion",
-        "code": "D007239"
+        "code": "http://id.nlm.nih.gov/mesh/D007239"
       },
       {
         "label": "Infektionsschutzgesetz"
@@ -65,7 +65,7 @@
       },
       {
         "label": "Infection",
-        "code": "D007239"
+        "code": "http://id.nlm.nih.gov/mesh/D007239"
       },
       {
         "label": "Germany"
@@ -103,14 +103,20 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2025-04-10"
+      "version": "2025-08-28"
     },
     "webpage": "https://robert-koch-institut.github.io/Influenzafaelle_in_Deutschland/",
     "contributors": [
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -129,7 +135,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Organisational",
@@ -141,7 +153,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -160,7 +178,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -179,7 +203,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
