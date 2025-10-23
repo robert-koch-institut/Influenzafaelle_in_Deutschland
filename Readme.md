@@ -21,7 +21,7 @@ Dokumentation
 <br> 
 
 **Zitieren**  
-Robert Koch-Institut. (2025). Laborbestätigte Influenzafälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17365337](https://doi.org/10.5281/zenodo.17365337)
+Robert Koch-Institut. (2025). Laborbestätigte Influenzafälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17421822](https://doi.org/10.5281/zenodo.17421822)
 
 <br>
 
