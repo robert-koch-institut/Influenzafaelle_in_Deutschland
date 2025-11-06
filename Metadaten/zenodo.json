@@ -45,8 +45,8 @@
     "Germany",
     "Open Data"
   ],
-  "publication_date": "2025-10-30",
-  "version": "2025-10-30",
+  "publication_date": "2025-11-06",
+  "version": "2025-11-06",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -76,8 +76,8 @@
   ],
   "dates": [
     {
-      "start": "2025-10-30T03:00:40+01:00",
-      "end": "2025-10-30T03:00:40+01:00",
+      "start": "2025-11-06T03:00:13+01:00",
+      "end": "2025-11-06T03:00:13+01:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }
