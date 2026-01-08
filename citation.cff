@@ -9,7 +9,7 @@ abstract: >-
   Falldefinition des Robert Koch-Instituts, differenziert nach Altersgruppen.
   Diese Daten dienen als Grundlage für epidemiologische Bewertungen und
   gesundheitspolitische Maßnahmen.
-date-released: '2026-01-01'
+date-released: '2026-01-08'
 keywords:
   - Influenza
   - Grippe
@@ -29,8 +29,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/Influenzafaelle_in_Deutschland/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.18113512
-version: '2026-01-01T03:00:33+01:00'
+doi: 10.5281/zenodo.18182181
+version: '2026-01-08T03:00:13+01:00'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de

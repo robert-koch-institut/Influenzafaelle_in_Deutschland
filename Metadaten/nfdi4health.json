@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.18113512",
+        "identifier": "10.5281/zenodo.18182181",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -103,7 +103,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-01-01"
+      "version": "2026-01-08"
     },
     "webpage": "https://robert-koch-institut.github.io/Influenzafaelle_in_Deutschland/",
     "contributors": [
