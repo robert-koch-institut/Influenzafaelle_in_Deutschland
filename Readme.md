@@ -70,12 +70,15 @@ Gemäß § 11 Abs. 2 IfSG hat das RKI die Aufgabe, Falldefinitionen zu erstellen
 Die Falldefinitionen ändern sich in unregelmäßigen Abständen in Abhängigkeit von politischen Entscheidungen oder durch neue wissenschaftliche Erkenntnisse und werden auf der [Website des RKI](https://www.rki.de/DE/Themen/Infektionskrankheiten/Meldewesen/Falldefinitionen/falldefinitionen-node.html) veröffentlicht. Die Falldefinition orientiert sich dabei an den drei Evidenztypen:  
 
 Klinisches Bild  
+
 - Aufführung von klinischen Symptomen, Zeichen, Befunden und anamnestischen Angaben, die je nach Übermittlungskategorie einzeln oder in Kombination zutreffen müssen 
 
 Labordiagnostischer Nachweis  
+
 - Aufführung von direkten, indirekten und anderen Nachweisen, die je nach Übermittlungskategorie einzeln oder in Kombination zutreffen müssen 
 
 Epidemiologische Bestätigung  
+
 - Explizite Nennung von epidemiologischen Zusammenhängen und epidemiologisch bestätigten Expositionen 
 
 Diese Evidenztypen werden zu einer von fünf Falldefinitionskategorien zusammengefasst. Aus den Falldefinitionskategorien leitet sich für jede Krankheit die jeweilige Referenzdefinition ab. Diese legt fest, welche übermittelten Fälle in den Veröffentlichungen des RKI erscheinen. In den Kontextmaterialien des Datensatzes ist die Falldefinition und die darin enthaltene Referenzdefinition für Influenza zu finden.
