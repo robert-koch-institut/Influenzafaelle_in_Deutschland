@@ -2,13 +2,14 @@ cff-version: 1.2.0
 type: dataset
 title: Laborbestätigte Influenzafälle in Deutschland
 abstract: >-
-  Im Datensatz &quot;Laborbestätigte Influenzafälle in Deutschland&quot; werden
-  die wöchentlichen Fallzahlen und Inzidenzen (Fälle pro 100.000 Personen) der
-  nach den Vorgaben des Infektionsschutzgesetzes (IfSG)
-  (https://www.gesetze-im-internet.de/ifsg/index.html) von den Gesundheitsämtern
-  in Deutschland an die zuständigen Landesbehördne und das Robert Koch-Institut
-  (RKI) übermittelten laborbestätigten Influenzafälle bereitgestellt. 
-date-released: '2025-08-28'
+  Im Datensatz &quot;Laborbestätigte Influenzafälle in Deutschland&quot; des
+  Robert Koch-Instituts werden die Daten basierend auf Meldungen zu Infektionen
+  mit dem Influenzavirus nach dem Infektionsschutzgesetz (IfSG) bereitgestellt.
+  Darin enthalten sind Informationen auf Bundeslandebene zu Infektionen nach
+  Falldefinition des Robert Koch-Instituts, differenziert nach Altersgruppen.
+  Diese Daten dienen als Grundlage für epidemiologische Bewertungen und
+  gesundheitspolitische Maßnahmen.
+date-released: '2026-02-05'
 keywords:
   - Influenza
   - Grippe
@@ -28,7 +29,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/Influenzafaelle_in_Deutschland/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.16977291
-version: '2025-08-28T03:00:38+02:00'
+doi: 10.5281/zenodo.18491202
+version: '2026-02-05T03:00:24+01:00'
 authors:
   - name: Robert Koch-Institut
+    email: info@rki.de
