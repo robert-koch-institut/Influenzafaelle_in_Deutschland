@@ -55,7 +55,7 @@ Im Datensatz "Laborbestätigte Influenzafälle in Deutschland" werden die wöche
 ### Administrative und organisatorische Angaben
 
 Die zugrundeliegenden Daten werden im Rahmen des Meldesystems gemäß [IfSG](https://www.gesetze-im-internet.de/ifsg/index.html) erhoben und verarbeitet. Zuständig für die fachliche Umsetzung des Meldesystems ist das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD-Kontaktstelle](https://www.rki.de/fg32) des RKI.  
-Die Verarbeitung und Aufbereitung der im Meldesystem vorliegenden Rohdaten erfolgt durch das Fachgebiet [IT4 | Softwarearchitektur und -entwicklung](https://www.rki.de/it4).  
+Die Verarbeitung und Aufbereitung der im Meldesystem vorliegenden Rohdaten erfolgt durch das Fachgebiet [IT 4 | Softwarearchitektur und -entwicklung](https://www.rki.de/it4).  
 Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open-Data-Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
 
 ### Entstehungskontext
@@ -161,11 +161,11 @@ Die Datei [IfSG_Influenzafaelle.tsv](https://github.com/robert-koch-institut/Inf
 
 #### Formatierung der Daten 
 
-Die Daten sind im Datensatz als tabulatorseparierte .tsv-Datei enthalten. Der verwendete Zeichensatz der .tsv-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tabulator [tab]. Datumsangaben sind im ISO-8601-Standard formatiert.
+Die Daten sind im Datensatz als tabulatorseparierte .tsv-Datei enthalten. Der verwendete Zeichensatz der .tsv-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tabulator `\t`. Datumsangaben sind im ISO-8601-Standard formatiert.
 
 * Zeichensatz: UTF-8  
 * Datumsformat: ISO 8601  
-* .tsv-Trennzeichen: Tabulator [tab]  
+* .tsv-Trennzeichen: Tabulator `\t`   
 
 
 <!-- FOOTER_START: {"lang": "de"} -->
