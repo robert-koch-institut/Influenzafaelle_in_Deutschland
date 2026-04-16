@@ -1,15 +1,13 @@
 cff-version: 1.2.0
 type: dataset
 title: Laborbestätigte Influenzafälle in Deutschland
-abstract: >-
-  Im Datensatz &quot;Laborbestätigte Influenzafälle in Deutschland&quot; des
-  Robert Koch-Instituts werden die Daten basierend auf Meldungen zu Infektionen
-  mit dem Influenzavirus nach dem Infektionsschutzgesetz (IfSG) bereitgestellt.
-  Darin enthalten sind Informationen auf Bundeslandebene zu Infektionen nach
-  Falldefinition des Robert Koch-Instituts, differenziert nach Altersgruppen.
-  Diese Daten dienen als Grundlage für epidemiologische Bewertungen und
-  gesundheitspolitische Maßnahmen.
-date-released: '2026-04-09'
+abstract: Im Datensatz "Laborbestätigte Influenzafälle in Deutschland" des Robert
+  Koch-Instituts werden die Daten basierend auf Meldungen zu Infektionen mit dem Influenzavirus
+  nach dem Infektionsschutzgesetz (IfSG) bereitgestellt. Darin enthalten sind Informationen
+  auf Bundeslandebene zu Infektionen nach Falldefinition des Robert Koch-Instituts,
+  differenziert nach Altersgruppen. Diese Daten dienen als Grundlage für epidemiologische
+  Bewertungen und gesundheitspolitische Maßnahmen.
+date-released: '2026-04-16'
 keywords:
   - Influenza
   - Grippe
@@ -27,10 +25,11 @@ keywords:
   - Public health surveillance
   - Epidemiology
 message: Cite me!
-url: https://robert-koch-institut.github.io/Influenzafaelle_in_Deutschland/
+url: https://robert-koch-institut.github.io/Influenzafaelle_in_Deutschland
 license: CC-BY-4.0
-doi: 10.5281/zenodo.19479213
-version: '2026-04-09T03:00:40+02:00'
+doi: 10.5281/zenodo.19602900
+version: '2026-04-16T03:00:39+02:00'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
+    website: https://www.rki.de/

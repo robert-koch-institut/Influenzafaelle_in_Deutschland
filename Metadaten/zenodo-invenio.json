@@ -1,15 +1,21 @@
 {
   "title": "Laborbestätigte Influenzafälle in Deutschland",
-  "description": "<p>Im Datensatz &quot;Laborbestätigte Influenzafälle in Deutschland&quot; des Robert Koch-Instituts werden die Daten basierend auf Meldungen zu Infektionen mit dem Influenzavirus nach dem Infektionsschutzgesetz (IfSG) bereitgestellt. Darin enthalten sind Informationen auf Bundeslandebene zu Infektionen nach Falldefinition des Robert Koch-Instituts, differenziert nach Altersgruppen. Diese Daten dienen als Grundlage für epidemiologische Bewertungen und gesundheitspolitische Maßnahmen.</p>\n",
+  "description": "<p>Im Datensatz \"Laborbestätigte Influenzafälle in Deutschland\" des Robert Koch-Instituts werden die Daten basierend auf Meldungen zu Infektionen mit dem Influenzavirus nach dem Infektionsschutzgesetz (IfSG) bereitgestellt. Darin enthalten sind Informationen auf Bundeslandebene zu Infektionen nach Falldefinition des Robert Koch-Instituts, differenziert nach Altersgruppen. Diese Daten dienen als Grundlage für epidemiologische Bewertungen und gesundheitspolitische Maßnahmen.</p>",
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2026-04-09",
+  "publication_date": "2026-04-16",
   "creators": [
     {
       "person_or_org": {
         "type": "organizational",
-        "name": "Robert Koch-Institut"
+        "name": "Robert Koch-Institut",
+        "identifiers": [
+          {
+            "scheme": "ror",
+            "identifier": "01k5qnb77"
+          }
+        ]
       }
     }
   ],
@@ -98,10 +104,10 @@
     }
   ],
   "publisher": "Zenodo",
-  "version": "2026-04-09",
+  "version": "2026-04-16",
   "dates": [
     {
-      "date": "2026-04-09T03:00:40+02:00",
+      "date": "2026-04-16T03:00:39+02:00",
       "type": {
         "id": "created"
       },
@@ -163,29 +169,23 @@
     },
     {
       "subject": "Open Data"
+    },
+    {
+      "subject": "Gesundheitsberichterstattung"
+    },
+    {
+      "subject": "Epidemiologie"
+    },
+    {
+      "subject": "Public health surveillance"
+    },
+    {
+      "subject": "Epidemiology"
     }
   ],
   "custom_fields": {
     "legacy:communities": [
       "robertkochinstitut"
-    ],
-    "legacy:subjects": [
-      {
-        "term": "Gesundheitsberichterstattung",
-        "identifier": "info:ddc/22/de//614.42"
-      },
-      {
-        "term": "Epidemiologie",
-        "identifier": "info:ddc/22/de//614.4"
-      },
-      {
-        "term": "Public health surveillance",
-        "identifier": "info:ddc/22/eng//614.42"
-      },
-      {
-        "term": "Epidemiology",
-        "identifier": "info:ddc/22/eng//614.4"
-      }
     ]
   }
 }
