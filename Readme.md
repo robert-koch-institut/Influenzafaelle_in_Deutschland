@@ -23,7 +23,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
-Robert Koch-Institut. (2026). Laborbestätigte Influenzafälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.20064095](https://doi.org/10.5281/zenodo.20064095)
+Robert Koch-Institut. (2026). Laborbestätigte Influenzafälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.20175813](https://doi.org/10.5281/zenodo.20175813)
 <!-- CITATION_END -->
 
 
