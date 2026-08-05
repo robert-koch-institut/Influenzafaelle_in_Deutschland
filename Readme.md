@@ -64,7 +64,7 @@ Das RKI ist ein Bundesinstitut im Geschäftsbereich des [Bundesministeriums für
 
 #### Infektionsschutzgesetz
 
-Das [Infektionsschutzgesetz ](https://www.gesetze-im-internet.de/ifsg/index.html) hat den Zweck, der Übertragung von Krankheiten beim Menschen vorzubeugen und Infektionen frühzeitig zu erkennen sowie die Verbreitung dieser zu verhindern. Es regelt, welche Krankheiten bei Verdacht, Erkrankung oder Tod und welche Nachweise von Krankheitserregern meldepflichtig sind. Zusätzlich wird neben der Art der zu meldenden Krankheit auch festgelegt, welche Personen zur Meldung verpflichtet sind, welche Merkmale solch eine Meldung enthalten muss, an wen diese Meldung erfolgen muss und welche Fristen eingehalten werden müssen.
+Das [Infektionsschutzgesetz ](https://www.gesetze-im-internet.de/ifsg/index.html) hat den Zweck, der Übertragung von Krankheiten beim Menschen vorzubeugen und Infektionen frühzeitig zu erkennen sowie ihre Verbreitung zu verhindern. Es regelt, welche Krankheiten bei Verdacht, Erkrankung oder Tod und welche Nachweise von Krankheitserregern meldepflichtig sind. Zusätzlich wird neben der Art der zu meldenden Krankheit auch festgelegt, welche Personen zur Meldung verpflichtet sind, welche Merkmale solch eine Meldung enthalten muss, an wen diese Meldung erfolgen muss und welche Fristen eingehalten werden müssen.
 
 Dem Gesundheitsamt wird gemäß § 7 Abs. 1 Nr. 25 IfSG nur der direkte Nachweis von Influenzaviren, soweit er auf eine akute Infektion hinweist, namentlich gemeldet. 
 
