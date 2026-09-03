@@ -7,7 +7,7 @@ abstract: Im Datensatz "Laborbestätigte Influenzafälle in Deutschland" des Rob
   auf Bundeslandebene zu Infektionen nach Falldefinition des Robert Koch-Instituts,
   differenziert nach Altersgruppen. Diese Daten dienen als Grundlage für epidemiologische
   Bewertungen und gesundheitspolitische Maßnahmen.
-date-released: '2026-08-27'
+date-released: '2026-09-03'
 keywords:
   - Influenza
   - Grippe
@@ -27,8 +27,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/Influenzafaelle_in_Deutschland
 license: CC-BY-4.0
-doi: 10.5281/zenodo.22122461
-version: '2026-08-27T03:00:39+02:00'
+doi: 10.5281/zenodo.22270118
+version: '2026-09-03T03:00:26+02:00'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
