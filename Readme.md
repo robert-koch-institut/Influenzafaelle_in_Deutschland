@@ -23,7 +23,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
-Robert Koch-Institut. (2026). Laborbestätigte Influenzafälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.22686219](https://doi.org/10.5281/zenodo.22686219)
+Robert Koch-Institut. (2026). Laborbestätigte Influenzafälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.22806337](https://doi.org/10.5281/zenodo.22806337)
 <!-- CITATION_END -->
 
 
@@ -142,8 +142,6 @@ In den Fallzahlen differenzieren die Spalten nach verschiedenen Merkmalen einer 
 
 Die Datei [IfSG_Influenzafaelle.tsv](https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/IfSG_Influenzafaelle.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_IfSG_Influenzafaelle.json](https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_IfSG_Influenzafaelle.json) hinterlegt:
 
-> [tableschema_IfSG_Influenzafaelle.json](https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_IfSG_Influenzafaelle.json)
-
 <!-- DATA_SCHEMA_TABLE_START -->
 | Variable     | Typ     | Ausprägungen                                                                                       | Beschreibung                                                                                                                                                                                                                                                               |
 |:-------------|:--------|:---------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -224,5 +222,5 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
 
 Der Datensatz "Laborbestätigte Influenzafälle in Deutschland" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
-Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/LIZENZ) Datei des Datensatzes.  
+Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, dass jede Person das Recht hat, die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/Influenzafaelle_in_Deutschland/blob/main/LIZENZ) Datei des Datensatzes.  
 <!-- FOOTER_END -->
